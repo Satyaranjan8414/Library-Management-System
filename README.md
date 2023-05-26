@@ -38,20 +38,8 @@ npm run watch
 - The Submission should not contain spaces, for example /rct-101 folder/eval will not work
 - Do not push node_modules and package_lock.json to GitHub
 
-## Rubrics
-```
-✅ able to submit the app - 1 mark ( minimum score )
-✅ Shows the correct initial data - 3 marks 
-✅ Able to add new book - 2 marks
-✅ Able to delete a book - 2 marks
-✅ Able to edit all fields of the book - 2 marks
-✅ Able to edit the price - 1 mark
-✅ Sorts as expected - 1 mark
-✅ Filters as expected - 1 mark
-✅ Able to search by title - 1 mark
-✅ Able to search by the author - 1 mark
-```
-### You haven't been taught Cypress to run the test cases locally, you can see the passed/ failed test cases and test errors on CP itself.
+
+
 
 
 ## Some Rules to follow:-
