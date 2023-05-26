@@ -25,28 +25,11 @@ npm run start
 ```
 npm run watch
 ```
-# Important files
-```
-├── index.html
-├── scripts
-│   └── main.js
-└── styles
-    └── style.css
-```
-## Maximum Marks - 15
-
-- The Submission should not contain spaces, for example /rct-101 folder/eval will not work
-- Do not push node_modules and package_lock.json to GitHub
 
 
 
 
 
-## Some Rules to follow:-
-
-- Before writing a single line of code please read the problem statement very carefully.
-- Don't change the already given ids or classes.
-- If you don't follow these rules you might not get any marks even if you do everything correctly.
 
 # Problem statements
 
