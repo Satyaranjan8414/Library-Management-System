@@ -167,10 +167,4 @@ You may use any approach of your choice for search functionality. You may use th
 ***Note***:- Get the updated data from API after POST,PATCH or DELETE request is done.
 
 
-### General guidelines
 
-- The system on cp.masaischool.com may take between 1-20 minutes for responding,
-- so we request you to read the problem carefully and debug it before itself
-- we also request you not just submit it last minute
-- try to keep one submission at a time
-- Use `${baseServerURL}/what-ever-route` for server url & not `localhost:9090/what-ever-route` in your solution. Failing to do so may cause all the tests to fail.
