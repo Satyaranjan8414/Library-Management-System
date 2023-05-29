@@ -22,9 +22,7 @@ npm run server
 ```
 npm run start
 ```
-## Start both BE & FE in a`
-npm run watch
-```
+
 
 
 
