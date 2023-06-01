@@ -11,9 +11,7 @@ Please do NOT use VSCode live-server. It will not work. Use the npm commands sug
 - Navigate to the correct path
 
 
-```
-npm install --engine-strict
-```
+
 ## Start only the Backend server
 ```
 npm run server
